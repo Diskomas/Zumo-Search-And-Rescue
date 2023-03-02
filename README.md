@@ -21,9 +21,9 @@ please use below listed IDE for running the provided code
 
 - Download "GUI" folder from "Zumo_Search_Rescue/".
 - Install required packages provided in the "used IDE for solutions" section.
-- In the solution explorer widnows double click "Form1.cs" to open GUI view.
-- In the solution explorer widnows doudle click GUI form anywhere to open GUI code.
-- In the solution explorer widnows right click GUI and select "Manage NugGet Packages".
+- In the solution explorer window double click "Form1.cs" to open GUI view.
+- In the solution explorer window doudle click GUI form anywhere to open GUI code.
+- In the solution explorer window right click GUI and select "Manage NugGet Packages".
 - Select installed; in the search bar type "IO.Ports".
 - Select System.IO.Ports and update version to 5.0.0 (very important).
 - If IO.ports does not exist, use browse tab to download the 5.0.0 version into the project.
