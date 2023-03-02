@@ -63,7 +63,7 @@ Mode 3:
 - Physically move the Zumo robot to the starting position where the left side motors ar barely touching the left side line.
 - Click "Start" button.
 
-if zumo loses track or turn angles are incurrectly - ZumoCode project treshold and other sensor values need to be adjusted
+if zumo loses track or turn angles are incorrect - ZumoCode project treshold and other sensor values need to be adjusted
 
 ## ZumoCode Project Setup
 
