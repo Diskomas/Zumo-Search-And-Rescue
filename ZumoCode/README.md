@@ -1,1 +1,1 @@
-# Instructions for arduino uno IDE
+# Instructions for arduino IDE
