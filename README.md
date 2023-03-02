@@ -2,6 +2,8 @@
 
 This template should help get you set up Zumo robot and GUI interface
 
+[Demonstration Video](www.youtube.com)
+
 ## Used IDE for solutions
 
 please use below listed IDE for running the provided code
@@ -83,3 +85,7 @@ if zumo loses track or turn angles are incurrectly - ZumoCode project treshold a
 
 - Inside "ZumoXbee.h" rename "Serial1" to "Serial"
 - Inside "MazeSolver.ino" rename "Serial1.begin(9600);" to "Serial.begin(9600);"
+
+### Tip
+
+Use new batteries for best peformance. Additionally speed and other adjustments can be made inside "ZumoMovement.h"
