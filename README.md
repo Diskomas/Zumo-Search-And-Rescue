@@ -21,7 +21,7 @@ please use below listed IDE for running the provided code
 
 - Download "GUI" folder from "Zumo_Search_Rescue/".
 - Install required packages provided in the "used IDE for solutions" section.
-- In the solution explorer widnows double click "" to open GUI view.
+- In the solution explorer widnows double click "Form1.cs" to open GUI view.
 - In the solution explorer widnows doudle click GUI form anywhere to open GUI code.
 - In the solution explorer widnows right click GUI and select "Manage NugGet Packages".
 - Select installed; in the search bar type "IO.Ports".
